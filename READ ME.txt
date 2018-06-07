@@ -1,0 +1,15 @@
+:::::::::::::Restaurant Bill Management System::::::::::::::::::::
+
+
+procedure to run this software:
+
+1. open Eclipse
+2. Import the file "restaurant.zip" into the Eclipse.
+3. Add the jar files "mysql-connector-java-5.1.40-bin" and "rs2xml" which is availabe in the folder "Additional Jar files".
+4. Create a Database with the name "restaurant" and import the "restaurant.sql" file into database. 
+
+
+HOW TO ADD JAR FILES:
+
+1. Right click on the project name and go to "Build path" then select "Configure Build Path"
+2. click on the "libraries" tab and click on "Add External JARs.." button and Select the jar files.
